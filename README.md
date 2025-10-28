@@ -44,4 +44,3 @@ Improved task display formatting for better user readability.
 # Acknowledgments
 
 During this learning process, I used ChatGPT to get suggestions and better understand how to improve the code step by step.
-# updated comment
